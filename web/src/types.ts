@@ -31,6 +31,7 @@ export type Buyer = {
   email: string;
 };
 
+
 export type Order = {
   id: string;
   eventId: string;
